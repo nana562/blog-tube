@@ -56,7 +56,7 @@
     "@graphql-codegen/plugin-helpers": "^1.18.7",
     "@prisma/client": "^2.24.1",
     "apollo-graphql": "^0.9.3",
-    "apollo-server": "^2.25.1",
+    "apollo-server": "^2.25.4",
     "dotenv-cli": "^4.0.0",
     "dotenv-safe": "^8.2.0",
     "graphql": "^15.5.0"
